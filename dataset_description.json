@@ -22,5 +22,6 @@
         "Mujica-Parodi, Lilianne R., et al. Diet modulates brain network stability, a biomarker for brain aging, in young adults., Proceedings of the National Academy of Sciences 117.11 (2020): 6170-6177. https://www.pnas.org/content/117/11/6170",
         "Antal, Botond B., et al. Brain aging shows nonlinear transitions, suggesting a midlife “critical window” for metabolic intervention., Proceedings of the National Academy of Sciences 122.10 (2025): e2416433122. https://doi.org/10.1073/pnas.2416433122"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005405.v1.0.2"
 }
